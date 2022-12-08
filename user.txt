@@ -12,3 +12,4 @@ pass= shakib10 >>ID=  1b7a0a0f328b73e5a56668ac90286343   > Date & Time start =01
 pass= arafat75>>ID=  f23704d365ebbf94ed7ad7f614f06115   > Date & Time start =04/12/22  to  03/12/22 porjonto {00}
 pass= nuralom10>>ID=  123a780d9c115c609eb5bcc022da7015   > Date & Time start =22/11/22  to  21/12/22 porjonto {1000 taka baki roilo}
 pass= masudvps>>ID=  a63f5b9cbe80a1efb37653a731fe7ea6   > Date & Time start =7/12/22  to  6/1/23 porjonto {1000 taka baki roilo}
+pass= Uzzal Biswas >>ID= fe4ac89c09006bb8bbaccb8e9c421268   > Date & Time start =8/12/22  to 23/12/23 porjonto {600 paid= polaser sate same user id}
