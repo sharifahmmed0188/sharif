@@ -22,3 +22,4 @@ pass= dinar >>ID= adfcb8e3b04777c350aec5250a5097d3   > Date & Time=12/12/22  to 
 pass= imrul13 >>ID= 75bb9a7ab3800cdf6b4044b7a8e8a46b   > Date & Time=12/12/22  to   12/12/2022 porjonto { test only}={OFF}
 pass= imrul2 >>ID= 68d3aa21e65d3bcb7d02253c92ccd016   > Date & Time=17/12/22  to   16/1/2023 porjonto { 00}
 pass= kawser >>ID= fe4ac89c09006bb8bbaccb8e9c421268   > Date & Time=17/12/22  to   16/1/2023 porjonto { 1000 paid}
+pass= rakibul10 >>ID= ec86a6b543dd03fcf6dc531537bba200   > Date & Time=20/12/22  to  trail 1day porjonto 
