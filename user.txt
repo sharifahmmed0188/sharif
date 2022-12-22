@@ -10,7 +10,7 @@ pass= topu10 >>ID=  3baa752c0b4c667d3c1a97cfba11451f   > Date & Time start =28/1
 pass= mamun10 >>ID=  784a8efdf4fa1b525c3ac2aaad13c10e   > Date & Time start =16/11/22  to  15/12/22 porjonto {00}={OFF}
 pass= shakib10 >>ID=  1b7a0a0f328b73e5a56668ac90286343   > Date & Time start =01/12/22  to  30/12/22 porjonto {500 paid and 500 Due}
 pass= arafat75>>ID=  f23704d365ebbf94ed7ad7f614f06115   > Date & Time start =04/12/22  to  03/12/22 porjonto {00}
-pass= nuralom10>>ID=  123a780d9c115c609eb5bcc022da7015   > Date & Time start =22/11/22  to  21/12/22 porjonto {1000 taka baki roilo}
+pass= nuralom10>>ID=  123a780d9c115c609eb5bcc022da7015   > Date & Time start =22/11/22  to  21/12/22 porjonto {1000 taka baki roilo}={Meyad ses}
 pass= masudvps>>ID=  a63f5b9cbe80a1efb37653a731fe7ea6  > Date & Time start =7/12/22 to 6/1/23 porjonto {1500 paid}
 pass= Uzzal Biswas >>ID= fe4ac89c09006bb8bbaccb8e9c421268   > Date & Time start =8/12/22  to 23/12/23 porjonto {600 paid= polaser sate same user id}
 pass= roy10 >>ID= 7ac6d766cd31d61665a69229d42e09bc  > Date & Time start =30/11/22  to 29/12/23 porjonto {00}
