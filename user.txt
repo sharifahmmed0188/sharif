@@ -5,7 +5,7 @@ pass= monirul13 >>ID= a2758c671cef8f7472c61053a650f1bb   > Date & Time=15/12/22 
 pass= Saiful13 >>ID= fcb41e84e7ad0015b578d4c76d98eeb5   > Date & Time start =02/12/22  to 02/01/23 porjonto {baki roilo 1500 tk}
 pass= harun >>ID= 211a0dd41fc886130dd58afb9944b434   > Date & Time start =26/11/22  to  26/12/22 porjonto {baki roilo sob}
 pass= rashidul2 >>ID=  b31e66ba7c8935d2882f9079f8b30407   > Date & Time start =17/11/22  to  1/1/23 porjonto {600 paid}
-pass= shakib10 >>ID=  1b7a0a0f328b73e5a56668ac90286343   > Date & Time start =01/12/22  to  30/12/22 porjonto {500 paid and 500 Due}
+pass= shakib10 >>ID=  1b7a0a0f328b73e5a56668ac90286343   > Date & Time start =05/12/22  to  5/1/23 porjonto {500 paid and 500 Due}
 pass= arafat75>>ID=  f23704d365ebbf94ed7ad7f614f06115   > Date & Time start =04/12/22  to  03/12/22 porjonto {00}
 pass= masudvps>>ID=  a63f5b9cbe80a1efb37653a731fe7ea6  > Date & Time start =7/12/22 to 6/1/23 porjonto {1500 paid}
 pass= roy10 >>ID= 7ac6d766cd31d61665a69229d42e09bc  > Date & Time start =30/11/22  to 29/12/23 porjonto {00}
