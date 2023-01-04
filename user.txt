@@ -18,3 +18,5 @@ pass=  azizul>>ID= 1797f27f2b27d6edb27744d9fe6bef15   > Date & Time=28/12/22  to
 pass=  mahmudul >>ID= 5fb4ead9eae00d1d0278ed1368119101   > Date & Time=29/12/22  to   28/1/2023 porjonto { 1000 tk paid}
 pass=  Sakib76 >>ID= 904323ca52e0aa6fc46b9a8e6d31f5c8   > Date & Time=3/1/23  to   2/2/2023 porjonto { 000}
 pass=  alamin >>ID= 41a22f9ec16ec30c22e4bd155cff3618   > Date & Time=5/1/23  to   4/2/2023 porjonto { 1200 paid and 300 due}
+pass=  Alomgir Hosen >>ID= fe4ac89c09006bb8bbaccb8e9c421268   > Date & Time=5/1/23  to   4/2/2023 porjonto { 1000 paid}
+pass=  topu3 >>ID= 5593506c093c159e9426cb760ff679fe   > Date & Time=5/1/23  to   19/2/2023 porjonto { 600 paid}
