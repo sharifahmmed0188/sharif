@@ -4,7 +4,6 @@ pass= robin10  >>ID= 55c2e90f6da9860152905b4538adec7a   > Date & Time=20/11/22  
 pass= monirul13 >>ID= a2758c671cef8f7472c61053a650f1bb   > Date & Time=15/12/22   > v1.3+3.32 te dewa chilo
 pass= harun >>ID= 211a0dd41fc886130dd58afb9944b434   > Date & Time start =26/11/22  to  26/12/22 porjonto {baki roilo sob}
 pass= shakib10 >>ID=  1b7a0a0f328b73e5a56668ac90286343   > Date & Time start =05/12/22  to  5/1/23 porjonto {500 paid and 500 Due}
-pass= masudvps>>ID=  a63f5b9cbe80a1efb37653a731fe7ea6  > Date & Time start =7/12/22 to 6/1/23 porjonto {1500 paid}
 pass= rsshuvo >>ID= 4411eaaf1ebf910b7593082dfec8c009   > Date & Time=9/12/22  to   8/1/2023 porjonto { Full Due 1000 tk}
 pass= sakib75 >>ID= 1ed97673b01889facacf3f83a7535297   > Date & Time=10/12/22  to   8/1/2023 porjonto { Full Due 1000 tk}
 pass= imrul2 >>ID= 68d3aa21e65d3bcb7d02253c92ccd016   > Date & Time=17/12/22  to   16/1/2023 porjonto { 1000 paid}
@@ -20,3 +19,4 @@ pass=  Sakib76 >>ID= 904323ca52e0aa6fc46b9a8e6d31f5c8   > Date & Time=3/1/23  to
 pass=  alamin >>ID= 41a22f9ec16ec30c22e4bd155cff3618   > Date & Time=5/1/23  to   4/2/2023 porjonto { 1200 paid and 300 due}
 pass=  Alomgir Hosen >>ID= fe4ac89c09006bb8bbaccb8e9c421268   > Date & Time=5/1/23  to   4/2/2023 porjonto { 1000 paid}
 pass=  topu3 >>ID= 5593506c093c159e9426cb760ff679fe   > Date & Time=5/1/23  to   19/2/2023 porjonto { 600 paid}
+nuralom10 =	123a780d9c115c609eb5bcc022da7015	= Date & Time start =22/11/22  to  21/12/22 porjonto {Due}
