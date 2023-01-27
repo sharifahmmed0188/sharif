@@ -25,3 +25,4 @@ sakib75	5a8fd5102e2e38d6010a86d5ac123d27	Date & Time=10/12/22  to   9/2/2023 por
 rajib75p	ca119364691799e3b43fb7771c2224f0	Date & Time=25/01/22  to traill 1 day
 alamin75p	29be4fd44e71705aad4351f0e7856fef	Date & Time=25/1/23  to   25/2/2023 porjonto { Full Due tk}
 mizan	fe4ac89c09006bb8bbaccb8e9c421268	Date & Time=27/1/22  to   25/2/2023 porjonto { Full Due 1000 tk}
+akash75p	99049ee535e271595b3c4a4ab6f8a1e5	Date & Time=27/1/22  to   26/2/2023 porjonto { Full Due 1000 tk}
