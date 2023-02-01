@@ -28,3 +28,4 @@ mizan	fe4ac89c09006bb8bbaccb8e9c421268	Date & Time=27/1/22  to   25/2/2023 porjo
 akash75p	99049ee535e271595b3c4a4ab6f8a1e5	Date & Time=27/1/22  to   26/2/2023 porjonto { paid 900 tk}
 jamil10	751a88420021f67af3dfa1efe4f57b04	Date & Time=27/1/22  to   26/2/2023 porjonto
    asif75     fdbb6cc7a77ea59b3fbbd746fab5e63d      date 29-1-2023 to 13-3-23 250 tk
+israt75tim     fdbb6cc7a77ea59b3fbbd746fab5e63d      date 2-2-2023 to 13-3-23 free
