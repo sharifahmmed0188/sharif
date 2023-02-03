@@ -5,9 +5,7 @@ pass=polash10  >ID= fe4ac89c09006bb8bbaccb8e9c421268   > Date & Time=20/11/22   
 pass= robin10  >>ID= 55c2e90f6da9860152905b4538adec7a   > Date & Time=20/11/22   > Taka+ Free
 pass= harun >>ID= 211a0dd41fc886130dd58afb9944b434   > Date & Time start =26/11/22  to  26/12/22 porjonto {baki roilo sob}
 pass= kawser2 >>ID= acf2b2f3e062d8c09441821f0d56bb66   > Date & Time=17/12/22  to   16/1/2023 porjonto { 1000 paid}
-pass=  Sakib76 >>ID= 904323ca52e0aa6fc46b9a8e6d31f5c8   > Date & Time=3/1/23  to   2/2/2023 porjonto { 000}
 pass=  Saiful13	fcb41e84e7ad0015b578d4c76d98eeb5	Date & Time=5/1/23     to    4/2/2023 porjonto { 1200 paid and 300 due}
-pass=  Alomgir Hosen >>ID= fe4ac89c09006bb8bbaccb8e9c421268   > Date & Time=5/1/23  to   4/2/2023 porjonto { 1000 paid}
 pass=  topu3 >>ID= 5593506c093c159e9426cb760ff679fe   > Date & Time=5/1/23  to   19/2/2023 porjonto { 600 paid}
 nuralom10 =	123a780d9c115c609eb5bcc022da7015	= Date & Time start =22/11/22  to  21/12/22 porjonto {Due}
 shuvo3	84417598dbb6901723a982d26f74e23e	 Date & Time start =7/1/23  to  6/2/23 porjonto {paid}
