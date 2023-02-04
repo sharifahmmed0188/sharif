@@ -20,7 +20,6 @@ sakib75	5a8fd5102e2e38d6010a86d5ac123d27	Date & Time=10/12/22  to   9/2/2023 por
 rajib75p	ca119364691799e3b43fb7771c2224f0	Date & Time=30/01/23  to15-2-23
 alamin75p	29be4fd44e71705aad4351f0e7856fef	Date & Time=25/1/23  to   25/2/2023 porjonto { Full Due tk}
 akash75p	99049ee535e271595b3c4a4ab6f8a1e5	Date & Time=27/1/22  to   26/2/2023 porjonto { paid 900 tk}
-jamil10	751a88420021f67af3dfa1efe4f57b04	Date & Time=27/1/22  to   26/2/2023 porjonto
    asif75     fdbb6cc7a77ea59b3fbbd746fab5e63d      date 29-1-2023 to 13-3-23 250 tk
 razib2t     f9faf2e53a6715181e30db92df590cda      date 2-2-2023 to 16-3-23 
    murad75 f39391300136073d35d28877212962ef        trail
